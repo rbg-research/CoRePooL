@@ -13,7 +13,7 @@ CoRePooL - Corpus for Resource Poor Languages
 
 |  |       Corpus       |     Benchmarks     |
 |---|:------------------:|:------------------:|
-| Badaga | &#x2611;, [Link]() | &#x2611;, [Link]() |
+| Badaga | &#x2611;, [Link](https://drive.google.com/drive/u/1/folders/1n5sNtE1kqulA_z5a630jLVxwdU7wn6w2) | &#x2611;, [Link](benchmarks/badaga) |
 | Tamil |      &#x2612;      |      &#x2612;      |
 | Malayalam |      &#x2612;      |      &#x2612;      |
 

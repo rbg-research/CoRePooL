@@ -34,10 +34,10 @@ rm -r Badaga_Corpus-v.0.1.0.zip
 
 ## Benchmarking
 
-| Task | Notebook |
-|:---:|:---:|
-| Text-to-Speech |  [Link]() |
-| Speech-to-Text | [Link](notebooks/speech-to-text.ipynb) |
-| Gender-Identification | [Link]() |
-| Speaker-Identification | [Link]() |
-| Translation | [Link]() |
+| Task | Fine Tuning<br>Notebook | Pre-trained<br>Models |
+|:---:|:---:|:---:|
+| Text-to-Speech | [Link](notebooks/text-to-speech.ipynb) | [Male]()<br>[Female]() |
+| Speech-to-Text | [Link](notebooks/speech-to-text.ipynb) | [Link]() |
+| Gender-Identification | [Link](notebooks/gender-identification.ipynb) | [Link]() |
+| Speaker-Identification | [Link](notebooks/speaker-identification.ipynb) | [Link]() |
+| Translation | [Link](notebooks/text-translation.ipynb) | [Badaga to English]()<br>[English to Badaga]() |
