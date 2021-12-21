@@ -1,3 +1,18 @@
+
+## Models
+opus-mt-rbg-bad-to-en
+opus-mt-rbg-en-to-bad
+tactron2-rbg-badaga-tts-f
+tactron2-rbg-badaga-tts-m
+wav2vec2-rbg-badaga-gender
+wav2vec2-rbg-badaga-speaker
+wav2vec2-rbg-badaga-stt
+
+
+## Data
+Badaga_Corpus-v.0.1.0
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

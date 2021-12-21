@@ -1,0 +1,13 @@
+librosa
+jiwer
+pandas
+datasets==1.13.3
+pyicu
+torch
+torchaudio
+pycld2
+morfessor
+polyglot
+transformers==4.11.3
+gdown
+openpyxl
