@@ -34,3 +34,10 @@ rm -r Badaga_Corpus-v.0.1.0.zip
 
 ## Benchmarking
 
+| Task | Notebook |
+|:---:|:---:|
+| Text-to-Speech |  [Link]() |
+| Speech-to-Text | [Link](notebooks/speech-to-text.ipynb) |
+| Gender-Identification | [Link]() |
+| Speaker-Identification | [Link]() |
+| Translation | [Link]() |
